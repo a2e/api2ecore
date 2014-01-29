@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Api2ecore
+Bundle-SymbolicName: de.jeandev.api2ecore
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: de.jeandev.api2ecore.Activator
+Require-Bundle: org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
